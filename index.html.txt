@@ -1,0 +1,91 @@
+<index.html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Savage Threadz Marketing</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f8f8f8; }
+        header { background: black; color: white; text-align: center; padding: 20px; font-size: 28px; font-weight: bold; }
+        .container { width: 90%; max-width: 1000px; margin: 20px auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 15px rgba(0,0,0,0.1); }
+        h2 { color: black; border-bottom: 2px solid black; padding-bottom: 5px; }
+        .btn { display: inline-block; padding: 10px 20px; background: black; color: white; text-decoration: none; border-radius: 5px; }
+        .btn:hover { background: darkgray; }
+        footer { text-align: center; padding: 20px; background: black; color: white; margin-top: 20px; }
+        .portfolio, .testimonials, .contact-form, .blog { margin-top: 30px; }
+        .portfolio img { width: 100%; max-width: 300px; border-radius: 10px; margin: 10px; }
+        .testimonial { background: #eee; padding: 10px; margin: 10px 0; border-radius: 5px; }
+        .form-group { margin-bottom: 15px; }
+        input, textarea { width: 100%; padding: 10px; margin-top: 5px; border-radius: 5px; border: 1px solid #ccc; }
+        button { padding: 10px 15px; background: black; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        button:hover { background: darkgray; }
+    </style>
+</head>
+<body>
+    <header>
+        Savage Threadz Marketing
+    </header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>We specialize in helping clothing brands grow their online presence through expert social media marketing, influencer partnerships, and targeted ad campaigns.</p>
+        
+        <h2>Our Services</h2>
+        <ul>
+            <li>Social Media Management - $300-$500/month</li>
+            <li>Content Strategy - $150-$300 (one-time plan)</li>
+            <li>Ad Management - $400-$1,000/month</li>
+            <li>Influencer Marketing - $200-$500 per campaign</li>
+            <li>Email Marketing - $250-$500/month</li>
+        </ul>
+        
+        <div class="portfolio">
+            <h2>Portfolio</h2>
+            <p>Check out some of our past projects and successful campaigns.</p>
+            <img src="portfolio1.jpg" alt="Portfolio Example 1">
+            <img src="portfolio2.jpg" alt="Portfolio Example 2">
+        </div>
+        
+        <div class="testimonials">
+            <h2>Client Testimonials</h2>
+            <div class="testimonial">"Savage Threadz helped us scale our brand beyond expectations!" - Client A</div>
+            <div class="testimonial">"Best marketing service we’ve ever used." - Client B</div>
+        </div>
+        
+        <div class="contact-form">
+            <h2>Contact Us</h2>
+            <form action="mailto:jeremiahelias965@gmail.com" method="post" enctype="text/plain">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="4" required></textarea>
+                </div>
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+        
+        <div class="blog">
+            <h2>Latest Marketing Tips</h2>
+            <p>Stay updated with the latest strategies in digital marketing.</p>
+            <ul>
+                <li><a href="#">5 Ways to Improve Your Brand's Social Media Presence</a></li>
+                <li><a href="#">How to Run a Profitable Ad Campaign</a></li>
+                <li><a href="#">Influencer Marketing: Dos and Don'ts</a></li>
+            </ul>
+        </div>
+        
+        <h2>Payment Options</h2>
+        <p>Cash App: $Jarrod54321</p>
+        <p>PayPal: jeremiahelias965@gmail.com</p>
+    </div>
+    <footer>
+        &copy; 2025 Savage Threadz Marketing - All Rights Reserved
+    </footer>
+</body>
+</html>
