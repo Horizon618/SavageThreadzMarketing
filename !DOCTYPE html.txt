@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Savage Threadz Marketing</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f8f8f8; }
+        header { background: black; color: white; text-align: center; padding: 20px; font-size: 24px; }
+        .container { width: 90%; max-width: 800px; margin: 20px auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); }
+        h2 { color: black; }
+        .btn { display: inline-block; padding: 10px 20px; background: black; color: white; text-decoration: none; border-radius: 5px; }
+        .btn:hover { background: darkgray; }
+        footer { text-align: center; padding: 20px; background: black; color: white; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        Savage Threadz Marketing
+    </header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>We specialize in helping clothing brands grow their online presence through expert social media marketing, influencer partnerships, and targeted ad campaigns.</p>
+        
+        <h2>Our Services</h2>
+        <ul>
+            <li>Social Media Management - $300-$500/month</li>
+            <li>Content Strategy - $150-$300 (one-time plan)</li>
+            <li>Ad Management - $400-$1,000/month</li>
+            <li>Influencer Marketing - $200-$500 per campaign</li>
+            <li>Email Marketing - $250-$500/month</li>
+        </ul>
+        
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:jeremiahelias965@gmail.com">jeremiahelias965@gmail.com</a></p>
+        <p>Cash App: $Jarrod54321</p>
+        <a href="mailto:jeremiahelias965@gmail.com" class="btn">Get in Touch</a>
+    </div>
+    <footer>
+        &copy; 2025 Savage Threadz Marketing - All Rights Reserved
+    </footer>
+</body>
+</html>
